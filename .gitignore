@@ -1,4 +1,8 @@
+# Environments & Keys
 venv/
-__pycache__/
-*.db
 .env
+
+# Databases & Cache
+*.db
+__pycache__/
+.pytest_cache/
