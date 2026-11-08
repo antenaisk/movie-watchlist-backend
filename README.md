@@ -29,11 +29,11 @@ Create a `.env` file in the root directory of your project based on the followin
 
 ```env
 # Secret key for JWT encoding/decoding
-SECRET_KEY=gdgoc_ugm_super_secret_key
+SECRET_KEY=your_super_secret_jwt_key_here
 ALGORITHM=HS256
 
 # Database Connection (SQLite local file)
 DATABASE_URL=sqlite:///database.db
 
 # Google Gemini AI API Key
-GEMINI_API_KEY=AQ.Ab8RN6IIcy-ysbOp98wVlDl-PeI50NY692U7LRU15kn8oyRuvg
+GEMINI_API_KEY=your_gemini_api_key_here
